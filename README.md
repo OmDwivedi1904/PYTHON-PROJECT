@@ -99,8 +99,5 @@ The pie chart will display:
 - If the file does not exist, it will be created automatically.
 - Invalid inputs are handled gracefully with appropriate error messages.
 
-## Future Enhancements
-- Add search functionality for specific dates or amounts.
-- Export summary reports to a CSV file.
-- Integrate a GUI for a more user-friendly experience.
+
 
